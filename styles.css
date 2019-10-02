@@ -8,6 +8,12 @@
   font-size: 30px;
 }
 
+
+img {
+  max-width: 40vw;
+  margin-left: 12vw;
+}
+
 @media screen and (max-width: 768px) {
   .grid {
     font-size: 20px;
@@ -15,6 +21,6 @@
   }
 
   img {
-    max-width: 40vw;
+    margin-left: 2vw;
   }
 }
